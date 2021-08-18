@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(90deg, rgb(16, 50, 224),#0068e8,rgb(5, 179, 237));
+
+}
+
+h1{
+  color: rgb(252, 250, 253);
+  text-shadow: 0.2;
+}

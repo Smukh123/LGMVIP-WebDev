@@ -1,0 +1,18 @@
+.App {
+    margin-left: 44.5%;
+    margin-top: 5%;
+}
+
+.copy {
+    margin-bottom: 0;
+    color: #fff700;
+    background-color: #005216;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+h1 {
+  color: #ffd900;
+}

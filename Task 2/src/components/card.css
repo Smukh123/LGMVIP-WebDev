@@ -1,0 +1,18 @@
+#card
+{
+    border-radius: 15px;
+    background-color:#fc8f00;
+    color:#023d01;
+}
+
+#card:hover
+{
+    color:#e6db0e;
+    background-color: #bf3600;
+
+}
+#image
+{
+    border-radius: 200%;
+    border-width: 10px;
+}
